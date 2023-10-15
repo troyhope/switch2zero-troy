@@ -1,0 +1,18 @@
+# Node artifacts
+node_modules/
+npm-debug.log
+
+# Build artifacts (depending on your setup)
+/dist
+/build
+
+# Environment files
+.env
+
+# IDE/Editor folders
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
